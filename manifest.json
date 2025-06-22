@@ -1,0 +1,1253 @@
+{
+  "sitemap": {
+    "baseUrl": "https://vu-truong.github.io/com.cubusky.core/"
+  },
+  "source_base_path": "/home/runner/work/com.cubusky.core/com.cubusky.core/Documentation~",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.AnimatorHash.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.AnimatorHash.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.AnimatorHash",
+      "Summary": "<p sourcefile=\"api/Cubusky.AnimatorHash.yml\" sourcestartlinenumber=\"1\">A generated parameter id from a string.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.ApplicationPath.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.ApplicationPath.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.ApplicationPath",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.ApplicationPathExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.ApplicationPathExtensions.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.ApplicationPathExtensions",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.DeflateCompressor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.DeflateCompressor.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.DeflateCompressor",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.DirectorySaverLoader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.DirectorySaverLoader.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.DirectorySaverLoader",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.Editor.AnimatorHashDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.Editor.AnimatorHashDrawer.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.Editor.AnimatorHashDrawer",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.Editor.GuidDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.Editor.GuidDrawer.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.Editor.GuidDrawer",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.Editor.HelpBoxDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.Editor.HelpBoxDrawer.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.Editor.HelpBoxDrawer",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.Editor.OfTypeDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.Editor.OfTypeDrawer.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.Editor.OfTypeDrawer",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.Editor.PasswordDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.Editor.PasswordDrawer.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.Editor.PasswordDrawer",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.Editor.PathDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.Editor.PathDrawer.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.Editor.PathDrawer",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.Editor.ReferenceDropdownDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.Editor.ReferenceDropdownDrawer.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.Editor.ReferenceDropdownDrawer",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.Editor.SerializedPropertyExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.Editor.SerializedPropertyExtensions.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.Editor.SerializedPropertyExtensions",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.Editor.ShaderIdDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.Editor.ShaderIdDrawer.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.Editor.ShaderIdDrawer",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.Editor.TimeSpanDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.Editor.TimeSpanDrawer.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.Editor.TimeSpanDrawer",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.Editor.UriDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.Editor.UriDrawer.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.Editor.UriDrawer",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.Editor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.Editor.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.Editor",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.FileSaverLoader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.FileSaverLoader.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.FileSaverLoader",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.GZipCompressor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.GZipCompressor.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.GZipCompressor",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.GuidAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.GuidAttribute.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.GuidAttribute",
+      "Summary": "<p sourcefile=\"api/Cubusky.GuidAttribute.yml\" sourcestartlinenumber=\"1\">Serializes a <xref href=\"System.String\" data-throw-if-not-resolved=\"false\"></xref> as a valid <xref href=\"System.Guid\" data-throw-if-not-resolved=\"false\"></xref>.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.HelpBoxAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.HelpBoxAttribute.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.HelpBoxAttribute",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.ICompressor-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.ICompressor-1.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.ICompressor<T>",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.ICompressor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.ICompressor.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.ICompressor",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.IDirectoryLoader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.IDirectoryLoader.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.IDirectoryLoader",
+      "Summary": "<p sourcefile=\"api/Cubusky.IDirectoryLoader.yml\" sourcestartlinenumber=\"1\">Loads data from a directory.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.IDirectorySaver.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.IDirectorySaver.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.IDirectorySaver",
+      "Summary": "<p sourcefile=\"api/Cubusky.IDirectorySaver.yml\" sourcestartlinenumber=\"1\">Saves data to a directory.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.IEnumerableLoader-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.IEnumerableLoader-1.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.IEnumerableLoader<TOutput>",
+      "Summary": "<p sourcefile=\"api/Cubusky.IEnumerableLoader-1.yml\" sourcestartlinenumber=\"1\">Loads a <xref href=\"System.Collections.Generic.IEnumerable%601?text=IEnumerable\" data-throw-if-not-resolved=\"false\"></xref>&lt;<code class=\"typeparamref\">TOutput</code>&gt; from multiple locations.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.IEnumerableLoader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.IEnumerableLoader.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.IEnumerableLoader",
+      "Summary": "<p sourcefile=\"api/Cubusky.IEnumerableLoader.yml\" sourcestartlinenumber=\"1\">Loads a <xref href=\"System.Collections.Generic.IEnumerable%601?text=IEnumerable\" data-throw-if-not-resolved=\"false\"></xref>&lt;<xref href=\"System.String\" data-throw-if-not-resolved=\"false\"></xref>&gt; from multiple locations.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.IEnumerableSaver-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.IEnumerableSaver-1.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.IEnumerableSaver<TInput>",
+      "Summary": "<p sourcefile=\"api/Cubusky.IEnumerableSaver-1.yml\" sourcestartlinenumber=\"1\">Saves a <xref href=\"System.Collections.Generic.IEnumerable%601?text=IEnumerable\" data-throw-if-not-resolved=\"false\"></xref>&lt;<code class=\"typeparamref\">TInput</code>&gt; to multiple locations.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.IEnumerableSaver.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.IEnumerableSaver.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.IEnumerableSaver",
+      "Summary": "<p sourcefile=\"api/Cubusky.IEnumerableSaver.yml\" sourcestartlinenumber=\"1\">Saves a <xref href=\"System.Collections.Generic.IEnumerable%601?text=IEnumerable\" data-throw-if-not-resolved=\"false\"></xref>&lt;<xref href=\"System.String\" data-throw-if-not-resolved=\"false\"></xref>&gt; to multiple locations.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.IEnumerableSaverLoader-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.IEnumerableSaverLoader-1.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.IEnumerableSaverLoader<TInputOutput>",
+      "Summary": "<p sourcefile=\"api/Cubusky.IEnumerableSaverLoader-1.yml\" sourcestartlinenumber=\"1\">Saves and loads a <xref href=\"System.Collections.Generic.IEnumerable%601?text=IEnumerable\" data-throw-if-not-resolved=\"false\"></xref>&lt;<code class=\"typeparamref\">TInputOutput</code>&gt; to and from multiple locations.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.IEnumerableSaverLoader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.IEnumerableSaverLoader.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.IEnumerableSaverLoader",
+      "Summary": "<p sourcefile=\"api/Cubusky.IEnumerableSaverLoader.yml\" sourcestartlinenumber=\"1\">Saves and loads a <xref href=\"System.Collections.Generic.IEnumerable%601?text=IEnumerable\" data-throw-if-not-resolved=\"false\"></xref>&lt;<xref href=\"System.String\" data-throw-if-not-resolved=\"false\"></xref>&gt; to and from multiple locations.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.IFileLoader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.IFileLoader.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.IFileLoader",
+      "Summary": "<p sourcefile=\"api/Cubusky.IFileLoader.yml\" sourcestartlinenumber=\"1\">Loads data from a filepath.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.IFileSaver.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.IFileSaver.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.IFileSaver",
+      "Summary": "<p sourcefile=\"api/Cubusky.IFileSaver.yml\" sourcestartlinenumber=\"1\">Saves data to a filepath.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.ILoader-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.ILoader-1.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.ILoader<TOutput>",
+      "Summary": "<p sourcefile=\"api/Cubusky.ILoader-1.yml\" sourcestartlinenumber=\"1\">Loads a <code class=\"typeparamref\">TOutput</code> from a single location.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.ILoader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.ILoader.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.ILoader",
+      "Summary": "<p sourcefile=\"api/Cubusky.ILoader.yml\" sourcestartlinenumber=\"1\">Loads a <xref href=\"System.String\" data-throw-if-not-resolved=\"false\"></xref> from a single location.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.ISaver-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.ISaver-1.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.ISaver<TInput>",
+      "Summary": "<p sourcefile=\"api/Cubusky.ISaver-1.yml\" sourcestartlinenumber=\"1\">Saves a <code class=\"typeparamref\">TInput</code> to a single location.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.ISaver.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.ISaver.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.ISaver",
+      "Summary": "<p sourcefile=\"api/Cubusky.ISaver.yml\" sourcestartlinenumber=\"1\">Saves a <xref href=\"System.String\" data-throw-if-not-resolved=\"false\"></xref> to a single location.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.ISaverLoader-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.ISaverLoader-1.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.ISaverLoader<TInputOutput>",
+      "Summary": "<p sourcefile=\"api/Cubusky.ISaverLoader-1.yml\" sourcestartlinenumber=\"1\">Saves and loads a <code class=\"typeparamref\">TInputOutput</code> to and from a single location.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.ISaverLoader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.ISaverLoader.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.ISaverLoader",
+      "Summary": "<p sourcefile=\"api/Cubusky.ISaverLoader.yml\" sourcestartlinenumber=\"1\">Saves and loads a <xref href=\"System.String\" data-throw-if-not-resolved=\"false\"></xref> to and from a single location.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.ITempLoader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.ITempLoader.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.ITempLoader",
+      "Summary": "<p sourcefile=\"api/Cubusky.ITempLoader.yml\" sourcestartlinenumber=\"1\">Loads data from temporary saves.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.ITempSaver.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.ITempSaver.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.ITempSaver",
+      "Summary": "<p sourcefile=\"api/Cubusky.ITempSaver.yml\" sourcestartlinenumber=\"1\">Saves data temporarily until the end of the session.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.Instance-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.Instance-1.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.Instance<T>",
+      "Summary": "<p sourcefile=\"api/Cubusky.Instance-1.yml\" sourcestartlinenumber=\"1\">A singleton implementation where the last enabled instance is the current instance.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.ManualSynchronizer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.ManualSynchronizer.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.ManualSynchronizer",
+      "Summary": "<p sourcefile=\"api/Cubusky.ManualSynchronizer.yml\" sourcestartlinenumber=\"1\">Synchronizes calls manually by calling <xref href=\"Cubusky.ManualSynchronizer.ProcessQueue\" data-throw-if-not-resolved=\"false\"></xref></p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.OfTypeAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.OfTypeAttribute.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.OfTypeAttribute",
+      "Summary": "<p sourcefile=\"api/Cubusky.OfTypeAttribute.yml\" sourcestartlinenumber=\"1\">Specifies <xref href=\"System.Type\" data-throw-if-not-resolved=\"false\"></xref> in an UnityEngine.Object selector.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.PasswordAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.PasswordAttribute.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.PasswordAttribute",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.PathAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.PathAttribute.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.PathAttribute",
+      "Summary": "<p sourcefile=\"api/Cubusky.PathAttribute.yml\" sourcestartlinenumber=\"1\">Serializes a <xref href=\"System.String\" data-throw-if-not-resolved=\"false\"></xref> as a valid path.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.ReferenceDropdownAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.ReferenceDropdownAttribute.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.ReferenceDropdownAttribute",
+      "Summary": "<p sourcefile=\"api/Cubusky.ReferenceDropdownAttribute.yml\" sourcestartlinenumber=\"1\">Draws a selectable dropdown for SerializeReference fields.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.ShaderId.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.ShaderId.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.ShaderId",
+      "Summary": "<p sourcefile=\"api/Cubusky.ShaderId.yml\" sourcestartlinenumber=\"1\">A unique identifier for a shader property name.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.SharedTimer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.SharedTimer.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.SharedTimer",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.TempSaverLoader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.TempSaverLoader.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.TempSaverLoader",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.TimeMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.TimeMode.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.TimeMode",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.TimeModeExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.TimeModeExtensions.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.TimeModeExtensions",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.TimeSpanAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.TimeSpanAttribute.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.TimeSpanAttribute",
+      "Summary": "<p sourcefile=\"api/Cubusky.TimeSpanAttribute.yml\" sourcestartlinenumber=\"1\">Serializes a <xref href=\"System.Int64\" data-throw-if-not-resolved=\"false\"></xref> as a valid <xref href=\"System.TimeSpan\" data-throw-if-not-resolved=\"false\"></xref>.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.Timer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.Timer.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.Timer",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.UIElements.TimeSpanField.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.UIElements.TimeSpanField.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.UIElements.TimeSpanField",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.UIElements.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.UIElements.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.UIElements",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.UnityPath.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.UnityPath.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.UnityPath",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.UriAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.UriAttribute.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky.UriAttribute",
+      "Summary": "<p sourcefile=\"api/Cubusky.UriAttribute.yml\" sourcestartlinenumber=\"1\">Serializes a <xref href=\"System.String\" data-throw-if-not-resolved=\"false\"></xref> as a valid <xref href=\"System.Uri\" data-throw-if-not-resolved=\"false\"></xref>.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Cubusky.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cubusky.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Cubusky",
+      "Summary": null
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "changelog/CHANGELOG.md",
+      "output": {
+        ".html": {
+          "relative_path": "changelog/CHANGELOG.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "changelog/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "changelog/toc.html"
+        },
+        ".json": {
+          "relative_path": "changelog/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "license/LICENSE.md",
+      "output": {
+        ".html": {
+          "relative_path": "license/LICENSE.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "license/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "license/toc.html"
+        },
+        ".json": {
+          "relative_path": "license/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/AttributeSerialization/AttributeSerialization.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/AttributeSerialization/AttributeSerialization.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/AttributeSerialization/GuidAttribute.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/AttributeSerialization/GuidAttribute.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/AttributeSerialization/OfTypeAttribute.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/AttributeSerialization/OfTypeAttribute.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/AttributeSerialization/PathAttribute.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/AttributeSerialization/PathAttribute.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/AttributeSerialization/ReferenceDropdownAttribute.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/AttributeSerialization/ReferenceDropdownAttribute.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/AttributeSerialization/TimeSpanAttribute.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/AttributeSerialization/TimeSpanAttribute.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/AttributeSerialization/UriAttribute.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/AttributeSerialization/UriAttribute.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/Instance.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/Instance.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/SavingAndLoading/DirectorySaverLoader.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/SavingAndLoading/DirectorySaverLoader.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/SavingAndLoading/FileSaverLoader.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/SavingAndLoading/FileSaverLoader.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/SavingAndLoading/SavingAndLoading.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/SavingAndLoading/SavingAndLoading.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/SavingAndLoading/TempSaverLoader.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/SavingAndLoading/TempSaverLoader.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/SerializableValues/AnimatorHash.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/SerializableValues/AnimatorHash.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/SerializableValues/ApplicationPath.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/SerializableValues/ApplicationPath.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/SerializableValues/SerializableValues.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/SerializableValues/SerializableValues.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/SerializableValues/ShaderId.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/SerializableValues/ShaderId.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/SerializableValues/TimeMode.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/SerializableValues/TimeMode.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/Timer.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/Timer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/UpdaterService.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/UpdaterService.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "manual/images/DirectorySaverLoader.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/DirectorySaverLoader.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "manual/images/FileSaverLoader.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/FileSaverLoader.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "manual/images/Instance Multiple.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/Instance Multiple.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "manual/images/Instance.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/Instance.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "manual/images/ReferenceDropdown IntTest.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/ReferenceDropdown IntTest.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "manual/images/ReferenceDropdown StringTest.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/ReferenceDropdown StringTest.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "manual/images/ReferenceDropdown null.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/ReferenceDropdown null.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "manual/images/TempSaverLoader.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/TempSaverLoader.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "manual/images/favicon.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/favicon.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "manual/images/logo.svg",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/logo.svg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "manual/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/toc.html"
+        },
+        ".json": {
+          "relative_path": "manual/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
